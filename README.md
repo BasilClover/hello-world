@@ -1,2 +1,2 @@
 # hello-world
-repository
+This is the respoitory format/example/template whatever
